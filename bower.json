@@ -1,0 +1,19 @@
+{
+  "name": "rokk3r-labs-fed-test-angular",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Mauricio Bello"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mowbell/rokk3rlabs-fed-test-2",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
