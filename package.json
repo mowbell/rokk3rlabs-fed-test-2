@@ -1,0 +1,19 @@
+{
+  "name": "rokk3r-labs-fed-test-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mowbell/rokk3rlabs-fed-test-2.git"
+  },
+  "author": "Mauricio Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mowbell/rokk3rlabs-fed-test-2/issues"
+  },
+  "homepage": "https://github.com/mowbell/rokk3rlabs-fed-test-2#readme"
+}
